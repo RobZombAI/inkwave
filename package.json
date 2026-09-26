@@ -1,0 +1,20 @@
+{
+  "name": "inkwave",
+  "version": "1.0.0",
+  "description": "INKWAVE — Turf Riot: a 4v4 turf-war ink shooter for the web (Splatoon web clone)",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 3000 .",
+    "dev": "npx --yes serve -l 3000 ."
+  },
+  "keywords": [
+    "splatoon",
+    "inkwave",
+    "game",
+    "webgl",
+    "threejs",
+    "shooter",
+    "turf-war"
+  ],
+  "license": "MIT"
+}
